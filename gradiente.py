@@ -1,9 +1,5 @@
 #------------ EJEMPLO DE CORRIDA DE PRUEBA
-#--- python gradiente.py xp1.csv yp1.csv
-
-#--- falta agregar como parametro de entrada alfa y tolerancia
-#--- falta colocar resultados de funcion de costo en archivo.csv
-
+#--- python gradiente.py xp1.csv yp1.csv 0.01 7
 
 
 #!/usr/bin/python
